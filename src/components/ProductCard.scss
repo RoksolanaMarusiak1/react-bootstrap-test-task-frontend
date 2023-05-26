@@ -1,0 +1,51 @@
+.card:hover {
+  border: 1px solid black !important;
+}
+
+.card:hover .hover-image {
+  filter: brightness(80%);
+}
+
+.card-img-top {
+  width: 90%;
+  margin-top: 15px !important;
+  height: 90%;
+  margin: 0 auto;
+  border-radius: 0;
+}
+
+.card-body {
+  padding-top: 10px;
+}
+
+.available-circle {
+  border-radius: 50%;
+  background-color: #5fd1a5;
+  border-width: 1px solid #5fd1a5;
+  outline: 2px solid white;
+  outline-offset: -3px;
+  width: 18px;
+  height: 18px;
+  margin-right: 5px;
+}
+
+.not-available-circle {
+  border-radius: 50%;
+  background-color: #df2c14;
+  border-width: 1px solid #df2c14;
+  outline: 2px solid white;
+  outline-offset: -3px;
+  width: 18px;
+  height: 18px;
+  margin-right: 5px;
+}
+
+.manufacturer-text,
+.product-price {
+  font-family: "Corporate S Demi", sans-serif;
+}
+
+.product-title,
+.product-details {
+  font-family: "Boring Sans A Trial", sans-serif;
+}

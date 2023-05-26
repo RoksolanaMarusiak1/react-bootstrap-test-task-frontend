@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Blended Sienna",
+      "manufacturer": "Acme Corporation",
+      "available": true,
+      "available_address": "123 Main",
+      "price": 19.99,
+      "image": "https://parketpoisk.ua/content/images/2/800x800l80mc0/87994464031954.webp"
+    },
+    {
+      "id": 2,
+      "product_name": "Cobalt Blue",
+      "manufacturer": "Art Supplies Inc.",
+      "available": false,
+      "price": 14.99,
+      "image": "https://laminathouse.com.ua/content/images/32/598x600l80nn0/12546775325655.webp"
+    },
+    {
+      "id": 3,
+      "product_name": "Cadmium Yellow",
+      "manufacturer": "Paints R Us",
+      "available": true,
+      "available_address": "789 Oak",
+      "price": 9.99,
+      "image": "https://parketpoisk.ua/content/images/49/800x800l80mc0/85046176656115.webp"
+    },
+    {
+      "id": 4,
+      "product_name": "Titanium White",
+      "manufacturer": "Art World Ltd.",
+      "available": true,
+      "available_address": "321 Pine",
+      "price": 12.99,
+      "image": "https://woodler.ua/content/images/5/800x800l80nn100/84122004074087.webp"
+    },
+    {
+      "id": 5,
+      "product_name": "Permanent Rose",
+      "manufacturer": "Creative Arts Co.",
+      "available": false,
+      "price": 8.99,
+      "image": "https://cdn.shopify.com/s/files/1/0456/7790/4032/products/coretec-pro-plus-7x48-chesapeake-oak-room4_800x800.jpg?v=1650918204"
+    },
+    {
+      "id": 6,
+      "product_name": "Phthalo Green",
+      "manufacturer": "Art Supplies Express",
+      "available": true,
+      "available_address": "987 Walnut",
+      "price": 11.99,
+      "image": "https://cdn.shopify.com/s/files/1/0456/7790/4032/products/coretec-pro-plus-7x48-galveston-oak-room2_800x800.jpg?v=1650912549"
+    },
+    {
+      "id": 7,
+      "product_name": "Yellow Ochre",
+      "manufacturer": "Paints Unlimited",
+      "available": true,
+      "available_address": "135 Cedar",
+      "price": 7.99,
+      "image": "https://images.carpetexpress.com/images/manufacturelogo/manufacturebanner_213_mobile.jpg"
+    },
+    {
+      "id": 8,
+      "product_name": "Burnt Umber",
+      "manufacturer": "Artistic Creations",
+      "available": true,
+      "available_address": "753 Birch",
+      "price": 6.99,
+      "image": "https://static.wixstatic.com/media/9b0b81_19027902c66145d39e32fc145ea8bb5b~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "reviewer_name": "John Doe",
+      "date": "September 12, 2021",
+      "rating": 4,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi facilisis urna leo, a mollis diam auctor id. Proin eu ipsum massa. Donec metus mi, faucibus sit amet venenatis sit amet, varius ut lacus. Vestibulum nulla eros, iaculis quis turpis sed, vestibulum tempor massa. Maecenas et justo nec odio laoreet lacinia efficitur a tellus. Nulla eget vestibulum enim, non cursus metus. Sed ac sapien quis turpis porttitor pharetra in eu urna. Donec commodo ante quis risus suscipit commodo. Pellentesque eu velit vitae ex bibendum sodales id sed magna. Fusce id sodales lectus. In efficitur, dui pellentesque mollis interdum, mauris lacus feugiat nunc, nec imperdiet sem dolor vel sapien. Cras purus felis, gravida sit amet iaculis in, lobortis non leo. Aenean cursus libero eleifend libero volutpat pulvinar. Sed vitae erat eget eros euismod blandit. Pellentesque sed nisi quis lectus sollicitudin facilisis at sed magna. Maecenas id turpis sed ante porttitor luctus in sed leo. Quisque euismod, felis id sollicitudin egestas, augue dolor pretium ex, ac malesuada diam libero vitae nibh. In malesuada posuere nisi."
+    }
+  ]
+}
